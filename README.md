@@ -1,5 +1,5 @@
 # Bigdataplatform_Database_Class_Note
-# Database Class는 총 6일
+# Database Class는 총 6일  
 
 강의를 수강하며 작성하는 코드, 강의록을 메모하는 공간
 매일 강의 내용을 프로젝트 폴더 단위(코드 / .java)로 업로드를 진행합니다.  
