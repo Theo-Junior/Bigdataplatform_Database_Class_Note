@@ -1,17 +1,19 @@
 # Bigdataplatform_Database_Class_Note
+# Database Class는 총 6일
 
-강의를 수강하며 작성하는 코드, 강의록을 메모하는 공간  
+강의를 수강하며 작성하는 코드, 강의록을 메모하는 공간
 매일 강의 내용을 프로젝트 폴더 단위(코드 / .java)로 업로드를 진행합니다.  
 :: Workshop(과제)의 경우 폴더 개별 업로드를 진행하기도 합니다.  
 
 <hr>   
 
 [학습]  
-Class 01 : -  
+Class 01 : Docker 개념 및 구성 / Docker 설치 및 커맨드 학습/ 컨테이너, 이미지 적재(Pullin) 및 구동 / Oracle DB 설치 및 연결 / ERP 실습
 Class 02 : 수강 전  
 Class 03 : 수강 전  
-Class 03 : 수강 전  
-Class 03 : 수강 전    
+Class 04 : 수강 전  
+Class 05 : 수강 전    
+Class 06 : 수강 전  
 
 <hr>
 
