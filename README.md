@@ -2,6 +2,7 @@
 
 
 Database Class는 총 6일  
+Oracle 11g 기준으로 실습을 진행합니다.  
 강의를 수강하며 작성하는 코드, 강의록을 메모하는 공간  
 매일 강의 내용을 프로젝트 폴더 단위로 업로드를 진행합니다.  
 :: Workshop(과제)의 경우 폴더 개별 업로드를 진행하기도 합니다.  
@@ -9,9 +10,9 @@ Database Class는 총 6일
 <hr>   
 
 [학습]  
-Class 01 : Docker 개념 및 구성 / Docker 설치 및 커맨드 학습/ 컨테이너, 이미지 적재(Pulling) 및 구동 / Oracle DB 설치 및 연결 / ERP 실습
-Class 02 : 수강 전  
-Class 03 : 수강 전  
+Class 01 : Docker 개념 및 구성 / Docker 설치 및 커맨드 학습/ 컨테이너, 이미지 적재(Pulling) 및 구동 / Oracle DB 설치 및 연결 / ERP 실습  
+Class 02 : SQL 접속 및 SQLplus 이용 방법 / 연습 계정 활성화 및 접속 계정 생성 / 테이블 관리(생성, 삭제, 변경) / 학습 테이블 생성   
+Class 03 : 기본 학습 테이블(Emp, Dept, Member, Grade) 생성 / SQL 기초 문법 및 내장함수 학습 / 집합 연산 학습 / 워크샵_1 진행    
 Class 04 : 수강 전  
 Class 05 : 수강 전    
 Class 06 : 수강 전  
