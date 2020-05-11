@@ -1,0 +1,63 @@
+-- DDL, DML, DCL에 대해 학습한다. 
+
+
+create table emp5 (
+    no number(3, 1),
+    name varchar2(10) not null
+)
+
+select * from emp5;
+insert into emp5(no, name) values(1, 'test');
+insert into emp5(no) values(2);
+
+select * from emp5;
+
+create table emp7
+(
+    no number(3,1),
+    name varchar2(10)
+)
+    
+alter table emp7
+    add (location varchar2(3));
+
+select * from emp7;
+
+create table member2(
+    UserNo number(3,1),
+    UserName varchar2(30)
+)
+
+alter table member2
+    add (Address varchar2(30));
+    
+alter table member2
+    add(Address2 varchar2(30));
+
+alter table member2 rename column Address2 to Addr;
+rename member2 to member3;
+
+alter table member3
+    modify(Addr varchar(3000));
+    
+alter table member3
+    drop column Addr;
+    
+truncate table member3;
+select * from member3;
+
+create table member4
+(
+    emp_no number(3),
+    emp_name varchar(30)
+)
+
+insert into member4 values(1, '이순신');
+insert into member4 values(2, '홍길동');
+insert into member4 values(3, '강감찬');
+
+select * from member4;
+
+update member4 set emp_name = '권율' where emp_name = '이순신';
+update member4 set emp_name = '권율' where emp_name = '이순신';
+update member4 set emp_name = '권율Lee' where emp_no = 2;
